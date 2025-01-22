@@ -67,7 +67,7 @@ Accuracy: 95.00%
 ```
 
 ## **Screenshots**
-![Loss Curve](path_to_loss_curve_image)
+![Loss Curve](plot)
 
 ## **Future Improvements**
 - Extend to multi-class classification for all three Iris classes.
