@@ -77,6 +77,5 @@ Accuracy: 95.00%
 ---
 
 ### **Author**
-[Your Name]  
-[Your Contact Information]  
-[GitHub Profile Link]
+Vidya Bingi,
+vidyabingi26@gmail.com
